@@ -1,6 +1,7 @@
 name: Soundal
 description: Open music encyclopedia that collects music metadata and makes it available to the public.
-full_description: 'The ultimate source of music information by allowing anyone to contribute and releasing the data under open licenses<br>
+full_description: 'The ultimate source of music information<br>
+Soundal captures information about artists, their songs, their albums, and the relationships between them.<br>
 <br>With a lot of features:
 <br>- Search artists, albums, playlists and songs
 <br>- Import your spotify playlists
